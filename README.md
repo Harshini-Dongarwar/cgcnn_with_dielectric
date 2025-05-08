@@ -2,7 +2,7 @@
 ## INTRODUCTION:
 Hello all,
 - Here we have added dielectric constant as a feature in Crystal Graph Convolutional Neural Network (CGCNN), so that we can try improving the prediction of the property: Band Gap.
-- We have done extracted data  from Materials Project database and JARVIS database and found that the e_electronic(electronic component of Band Gap) shows an inverse trend with Band gap.
+- We have  extracted data  from Materials Project database and JARVIS database and found that the e_electronic(electronic component of Band Gap) shows an inverse trend with Band gap.
 
 ## How to use this:
 - The initial structure remains the same as using CGCNN, make your own custom dataset, add your CIF files,id_prop.csv and atom_init.json files. Now also add a file named DE.csv.
